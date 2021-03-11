@@ -8,9 +8,9 @@ let resultado = esFraccionMayorAUno('2/2')
 assert.equal(resultado, false,`esFraccionMayorAUno('2/2') debería retornar false pero fue ${resultado}`);
 })
 
-it("Si hacemos esFraccionMayorAUno('4/2') debería retornar false", function() {
+it("Si hacemos esFraccionMayorAUno('4/2') debería retornar true", function() {
 let resultado = esFraccionMayorAUno('4/2')
-assert.equal(resultado, false,`esFraccionMayorAUno('4/2') debería retornar false pero fue ${resultado}`);
+assert.equal(resultado, true,`esFraccionMayorAUno('4/2') debería retornar true pero fue ${resultado}`);
 })
 
 
