@@ -4,6 +4,6 @@ it("Si hacemos esElUltimoCaracter('lovelace', 'e') debería retornar true", func
 })
 
 it("Si hacemos esElUltimoCaracter('lovelace', 'f') debería retornar false", function() {
-  let resultado = esElUltimoCaracter('lovelace', 'e')
+  let resultado = esElUltimoCaracter('lovelace', 'f')
   assert.equal(resultado, false,`esElUltimoCaracter ('lovelace','f' debería retornar false pero fue ${resultado}`);
 })
