@@ -10,5 +10,5 @@ assert.equal(resultado, false,`esAnioNuevo('22/01/1987') debería retornar false
 
 it("Si hacemos esAnioNuevo('01/01/2020') debería retornar true", function() {
 let resultado = esAnioNuevo('01/01/2020')
-assert.equal(resultado, true,`esAnioNuevo('01/01/2020') debería retornar false pero fue ${resultado}`);
+assert.equal(resultado, true,`esAnioNuevo('01/01/2020') debería retornar true pero fue ${resultado}`);
 })
