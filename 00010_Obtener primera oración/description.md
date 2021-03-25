@@ -1,4 +1,4 @@
-> Definí una función `obtenerPrimeraOracion` que tome como argumento un string `str` y la primera oración de dicho string
+> Definí una función `obtenerPrimeraOracion` que tome como argumento un string `str` y devuelva la primera oración de dicho string
 >
 ```javascript
 ム obtenerPrimeraOracion('A mí no me preguntes, sólo soy una oración')
