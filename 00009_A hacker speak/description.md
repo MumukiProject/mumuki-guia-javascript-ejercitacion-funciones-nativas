@@ -5,7 +5,7 @@
 - Las e se transforman en 3
 - Las a se transforman en 4
 - Las s se transforman en 5
-- Las 0 se transforman en 0
+- Las o se transforman en 0
 ```
 >
 ```javascript
