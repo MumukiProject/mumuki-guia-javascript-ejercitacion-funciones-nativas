@@ -1,1 +1,1 @@
-En la _</>Biblioteca_ tenés disponible la función `esVocal` para que puedas invocarla.
+En la `</>Biblioteca` tenés disponible la función `esVocal` para que puedas invocarla.
