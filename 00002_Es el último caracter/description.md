@@ -1,4 +1,4 @@
-> Definí una función `esElUltimoCaracter` que tome como argumentos una `palabra` y un `caracter` y devuelva `true` si la `palabra` termina con el `caracter` o `false` de lo contrario
+> Definí una función `esElUltimoCaracter` que reciba como argumentos una `palabra` y un `caracter` y nos indique si la `palabra` termina con el `caracter`.
 >
 ```javascript
 ム igualLongitud('lovelace', 'e')

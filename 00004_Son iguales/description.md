@@ -1,4 +1,4 @@
-> Definí una función `sonIguales` que tome como argumentos dos strings `a` y `b` y retorne `true` si ambos strings tienen el mismo contenido independientes del caso y `false` en caso contrario.
+> Definí una función `sonIguales` que reciba como argumentos dos strings `a` y `b` y retorne si ambos strings tienen el mismo contenido independientes del caso.
 >
 ```javascript
 ム sonIguales('javascript', 'JavaScript')

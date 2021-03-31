@@ -1,4 +1,4 @@
-> Definí una función `contarPalabras` que tome como argumento un string `str` y devuelva la cantidad de palabras que posee
+> Definí una función `contarPalabras` que reciba como argumento un string `str` y devuelva la cantidad de palabras que posee
 >
 ```javascript
 ム contarPalabras('javascript')

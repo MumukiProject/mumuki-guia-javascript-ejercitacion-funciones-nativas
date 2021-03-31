@@ -1,4 +1,4 @@
-> Definí una función `aHackerSpeak` que tome como argumento un string `str` y el mismo string convertido a H4CK3R 5P3AK, siguiendo las siguientes reglas:
+> Definí una función `aHackerSpeak` que reciba como argumento un string `str` y el mismo string convertido a H4CK3R 5P3AK, siguiendo las siguientes reglas:
 >
 ```
 - Las i se transforman en 1

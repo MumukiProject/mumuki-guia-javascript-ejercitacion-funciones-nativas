@@ -1,4 +1,4 @@
-> Definí una función `esAnioNuevo` que tome como argumento un string `fecha` con el formato `DD:MM:YYYY` un `argumento` y devuelva `true` si la fecha es año nuevo o `false` si no lo es
+> Definí una función `esAnioNuevo` que reciba como argumento un string `fecha` con el formato `DD:MM:YYYY` un `argumento` y nos indique si la fecha es año nuevo.
 >
 ```javascript
 ム esAnioNuevo('03/05/2015')

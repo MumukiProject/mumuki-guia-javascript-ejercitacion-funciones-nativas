@@ -1,4 +1,4 @@
-> Definí una función `tienenMismaLongitud` que tome como argumentos dos strings `a` y `b` y devuelva `true` si tienen la misma longitud o `false` de lo contrario
+> Definí una función `tienenMismaLongitud` que reciba como argumentos dos strings `a` y `b` y devuelva si tienen la misma longitud.
 >
 ```javascript
 ム tienenMismaLongitud('javascript', 'java')
