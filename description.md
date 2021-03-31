@@ -1,1 +1,1 @@
-Ejercitación de funciones nativas
+¡A practicar con las funciones nativas de JavaScript! :muscle:
